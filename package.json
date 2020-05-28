@@ -1,7 +1,8 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "TailwindCSS Flowchart Example using React js",
+  "author": "Ravisankar Chinnam",
   "keywords": [
     "react",
     "starter"
