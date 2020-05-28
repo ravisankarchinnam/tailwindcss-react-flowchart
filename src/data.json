@@ -1,0 +1,69 @@
+[{
+    "id": 12,
+    "name": "Duc Sun",
+    "role": "ceo",
+    "profiles": [{
+            "id": 83,
+            "name": "Leo Six",
+            "role": "Management",
+            "profiles": [{
+                    "id": 46,
+                    "name": "Tab Han",
+                    "role": "Project Manager",
+                    "profiles": [{
+                            "id": 76,
+                            "name": "Daniel Zhou",
+                            "role": "Team Lead",
+                            "profiles": [{
+                                    "id": 55,
+                                    "name": "Patrick Wang",
+                                    "role": "Developer"
+                                },
+                                {
+                                    "id": 41,
+                                    "name": "Jonsen Li",
+                                    "role": "Developer"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 44,
+                            "name": "Derek Hu",
+                            "role": "Team Lead",
+                            "profiles": [{
+                                "id": 25,
+                                "name": "Alfie Zu",
+                                "role": "Developer"
+                            }]
+                        },
+                        {
+                            "id": 30,
+                            "name": "Lennis Chan",
+                            "role": "Team Lead"
+                        }
+                    ]
+                },
+                {
+                    "id": 54,
+                    "name": "Peter Miao",
+                    "role": "Project Manager",
+                    "profiles": [{
+                        "id": 90,
+                        "name": "Peter Ming",
+                        "role": "Team Lead"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Shi Ten",
+            "role": "HR"
+        },
+        {
+            "id": 97,
+            "name": "Shawn Mong",
+            "role": "admin"
+        }
+    ]
+}]
