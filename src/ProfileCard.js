@@ -7,7 +7,7 @@ const ProfileCard = ({ id, name, role, profiles = [] }) => {
       <div className="flex flex-col justify-center items-center">
         <div className="w-16">
           <img
-            className="block rounded-full m-auto"
+            className="block rounded-full m-auto shadow-md"
             alt={name}
             src={`https://randomuser.me/api/portraits/men/${id}.jpg`}
           />
