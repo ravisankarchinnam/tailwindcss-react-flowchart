@@ -96,7 +96,7 @@ export default function App() {
       </div>
       <a
         className="text-md underline text-gray-500 hover:text-gray-700 cursor-pointer bottom-0 absolute"
-        href="https://codesandbox.io/s/brave-field-3e89c"
+        href="https://codesandbox.io/s/github/ravisankarchinnam/tailwindcss-flow-chart"
       >
         React.js version
       </a>
